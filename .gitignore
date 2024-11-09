@@ -161,6 +161,3 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 single_level_jpeg_compression_algorithm.ipynb
-sample_quality_10.jpg
-0134x8.png
-0010x8.png
